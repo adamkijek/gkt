@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/">
+    <channel>
+        <title>ROR Sitemap for http://www.tkd-gdansk.pl/</title>
+        <link>http://www.tkd-gdansk.pl/</link>
+
+        <item>
+            <link>http://www.tkd-gdansk.pl/</link>
+            <title>Gdański Klub Taekwon-do ITF</title>
+            <description>Gdański Klub Taekwon-Do istnieje od 1995 roku. Obecnie jest najlepszym klubem Taekwon-do ITF w
+                Polsce. W GKT trenują medaliści Mistrzostw Świata, Mistrzostw Europy, Pucharu Świata, Pucharu Europy,
+                Mistrzostw Polski. Zajęcia prowadzi Marcin Wołosz V DAN. Serdecznie zapraszamy na darmowy trening
+                próbny!
+            </description>
+            <ror:updatePeriod></ror:updatePeriod>
+            <ror:sortOrder>0</ror:sortOrder>
+            <ror:resourceOf>sitemap</ror:resourceOf>
+        </item>
+        <item>
+            <link>http://www.tkd-gdansk.pl/index.html</link>
+            <title>Gdański Klub Taekwon-do ITF</title>
+            <description>Gdański Klub Taekwon-Do istnieje od 1995 roku. Obecnie jest najlepszym klubem Taekwon-do ITF w
+                Polsce. W GKT trenują medaliści Mistrzostw Świata, Mistrzostw Europy, Pucharu Świata, Pucharu Europy,
+                Mistrzostw Polski. Zajęcia prowadzi Marcin Wołosz V DAN. Serdecznie zapraszamy na darmowy trening
+                próbny!
+            </description>
+            <ror:updatePeriod></ror:updatePeriod>
+            <ror:sortOrder>1</ror:sortOrder>
+            <ror:resourceOf>sitemap</ror:resourceOf>
+        </item>
+    </channel>
+</rss>
+  
